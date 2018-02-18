@@ -1,0 +1,157 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: An Orange
+Author: Ivan Kraft
+URL: https://poly.google.com/view/abyCKYOa770
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Apple
+Author: Joe Arnold
+URL: https://poly.google.com/view/6DsG-SINvbr
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bear
+Author: jiang liu
+URL: https://poly.google.com/view/3Eb9oLfZYIc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cat
+Author: Poly by Google
+URL: https://poly.google.com/view/6dM1J6f6pm9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Christmas Tree
+Author: Alex “SAFFY” Safayan
+URL: https://poly.google.com/view/fO1vTvI0QIc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cruise ship
+Author: Poly by Google
+URL: https://poly.google.com/view/dgLCxDWhnZQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Elephant
+Author: Poly by Google
+URL: https://poly.google.com/view/9J-cG39KYFC
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Espresso pot
+Author: Poly by Google
+URL: https://poly.google.com/view/4JpGweI6vVR
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Feather
+Author: Poly by Google
+URL: https://poly.google.com/view/5V3M_9IlkC_
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Goldfish
+Author: Poly by Google
+URL: https://poly.google.com/view/0bOZGc8ONrx
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Grapes
+Author: Poly by Google
+URL: https://poly.google.com/view/csU4Smr2_aV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Horse
+Author: Poly by Google
+URL: https://poly.google.com/view/5ocnVSh_ZF-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Ice cream
+Author: Poly by Google
+URL: https://poly.google.com/view/27NZ4ejbkZl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Jug
+Author: Poly by Google
+URL: https://poly.google.com/view/fmkR92NffA7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lion
+Author: Poly by Google
+URL: https://poly.google.com/view/3XAJojWxSWz
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: monkey
+Author: Poly by Google
+URL: https://poly.google.com/view/0yRz2AkLuuo
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pirate Ship
+Author: Nedarb Ken
+URL: https://poly.google.com/view/7aHmBgTur3V
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pot of something
+Author: Darwin Yamamoto
+URL: https://poly.google.com/view/ct01vuh1c8w
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rabbit
+Author: Poly by Google
+URL: https://poly.google.com/view/dyeBDJxhDwP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Soccer ball
+Author: Poly by Google
+URL: https://poly.google.com/view/9z5905buuy3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tiger
+Author: Poly by Google
+URL: https://poly.google.com/view/5A3w06FXUup
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Van
+Author: Poly by Google
+URL: https://poly.google.com/view/9hUUD2DWk1v
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: White/Gray Beach Umbrella
+Author: S. Paul Michael
+URL: https://poly.google.com/view/8y8AVmfOwn2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wrist Watch
+Author: Poly by Google
+URL: https://poly.google.com/view/6908NHM0OcR
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Yacht
+Author: Alex “SAFFY” Safayan
+URL: https://poly.google.com/view/9znU2c-dTSR
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Zebra
+Author: Poly by Google
+URL: https://poly.google.com/view/8Ut7mhb-aqK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
